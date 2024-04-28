@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*BoZuMV2kfcjiiTDV.png)
+![MasterHead](https://www.boardinfinity.com/blog/content/images/2023/01/Mern.png)
 <h1 align="center">Hi 👋, I'm Nishant kumar jha</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif">
