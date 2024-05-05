@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nishnat kumar jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishnat kumar jha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nishant kumar jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nishant kumar jha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nishant_k_jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishant_k_jha" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
