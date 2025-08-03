@@ -3,8 +3,6 @@
 
 - 👨‍💻 Leetcode : [https://leetcode.com/u/Nishant_k_jha/](https://leetcode.com/u/Nishant_k_jha/)
 
-- 👨‍💻 All of my projects are available at [https://port-three-gamma.vercel.app/](https://port-three-gamma.vercel.app/)
-
 - 💬 Ask me about **GO, Data structures, Algorithms**
 
 - 📫 How to reach me **jhanishantkumar399@gmail.com**
