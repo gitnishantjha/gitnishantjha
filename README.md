@@ -3,7 +3,7 @@
 
 - 👨‍💻 Leetcode : [https://leetcode.com/u/Nishant_k_jha/](https://leetcode.com/u/Nishant_k_jha/)
 
-- 💬 Ask me about **GO, Data structures, Algorithms**
+- 💬 Ask me about ** Java, GO, MicroServices, Data structures, Algorithms**
 
 - 📫 How to reach me **jhanishantkumar399@gmail.com**
 
